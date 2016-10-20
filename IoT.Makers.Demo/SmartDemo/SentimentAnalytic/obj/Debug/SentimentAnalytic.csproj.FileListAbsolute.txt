@@ -1,0 +1,14 @@
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\SentimentAnalytic.exe.config
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\SentimentAnalytic.exe
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\SentimentAnalytic.pdb
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.csprojResolveAssemblyReference.cache
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.exe
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.pdb
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\Newtonsoft.Json.dll
+E:\Jobs\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\Newtonsoft.Json.xml
+C:\Technostar\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\SentimentAnalytic.exe.config
+C:\Technostar\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.exe
+C:\Technostar\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.pdb
+C:\Technostar\CognitiveService\SentimentAnalytic\bin\Debug\SentimentAnalytic.exe.config
+C:\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.exe
+C:\Technostar\CognitiveService\SentimentAnalytic\obj\Debug\SentimentAnalytic.pdb

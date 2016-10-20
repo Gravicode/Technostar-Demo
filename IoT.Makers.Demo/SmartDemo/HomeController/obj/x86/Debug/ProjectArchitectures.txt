@@ -1,0 +1,1 @@
+E:\Jobs\Technostar\IoT.Makers.Demo\SmartDemo\HomeController\HomeController.csproj;x86

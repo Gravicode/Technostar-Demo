@@ -1,0 +1,39 @@
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Bot Application1.dll.config
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Bot Application1.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Bot Application1.pdb
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Autofac.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Chronic.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Bot.Builder.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Bot.Connector.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Newtonsoft.Json.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Net.Http.Formatting.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Web.Http.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Web.Http.WebHost.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Autofac.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Bot.Builder.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Bot.Connector.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\Newtonsoft.Json.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Net.Http.Formatting.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Web.Http.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\System.Web.Http.WebHost.xml
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\obj\Debug\BotApp.csprojResolveAssemblyReference.cache
+C:\Technostar\Technostar\CognitiveService\BotApp\obj\Debug\Bot Application1.dll
+C:\Technostar\Technostar\CognitiveService\BotApp\obj\Debug\Bot Application1.pdb
